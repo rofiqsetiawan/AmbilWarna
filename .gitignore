@@ -1,0 +1,8 @@
+AmbilWarnaDemo/.vs/
+AmbilWarnaDemo/bin/
+AmbilWarnaDemo/obj/
+AmbilWarnaDemo/packages/
+AmbilWarnaLib/bin/
+AmbilWarnaLib/obj/
+AmbilWarnaLib/packages/
+clean-vs.cmd

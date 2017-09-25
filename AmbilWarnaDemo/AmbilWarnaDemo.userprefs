@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{F4FB3F81-01CC-4203-92D8-FEE74A993F01}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AmbilWarnaDemo PreferredExecutionTarget="Android.Nougat" />
+  <MonoDevelop.Ide.Workbench />
+  <MultiItemStartupConfigurations />
+</Properties>
